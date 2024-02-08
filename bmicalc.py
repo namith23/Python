@@ -1,3 +1,4 @@
+#calculating body mass index
 height = input()
 weight = input()
 
