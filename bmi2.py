@@ -1,3 +1,4 @@
+#calculating the body mass index by taking height and weight as input 
 height = float(input())
 weight = int(input())
 
