@@ -1,3 +1,4 @@
+#checking students grades based on their marks
 student_scores = {
   "Harry": 81,
   "Ron": 78,
