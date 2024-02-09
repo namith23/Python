@@ -1,3 +1,4 @@
+#Calculator for online pizza delivery based on the size of pizza, extra pepperoni and extra cheese
 print("Thank you for choosing Python Pizza Deliveries!")
 size = input('What size pizza do you want? S, M, or L\n') # What size pizza do you want? S, M, or L
 add_pepperoni = input('Do you want pepperoni? Y or N\n') # Do you want pepperoni? Y or N
