@@ -1,3 +1,4 @@
+#bmi using valueError
 height = float(input("Height: "))
 weight = int(input("Weight: "))
 
