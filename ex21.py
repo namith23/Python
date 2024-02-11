@@ -1,4 +1,4 @@
-#
+#index error
 fruits = eval(input())
 
 def make_pie(index):
