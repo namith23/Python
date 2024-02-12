@@ -1,3 +1,5 @@
+#creating different shapes using turtle
+
 import turtle as t
 import random
 tim = t.Turtle()
