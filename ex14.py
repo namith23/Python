@@ -1,3 +1,4 @@
+#creating a image the user needs using turtle
 from turtle import Turtle, Screen
 
 tim = Turtle()
