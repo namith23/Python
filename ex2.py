@@ -1,3 +1,4 @@
+#
 print('Welcome')
 name1 = input('Enter name1:')
 name2 = input('Enter name2:')
