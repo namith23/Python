@@ -1,3 +1,5 @@
+#choosing random person to pay a bill using random module
+
 names_string = "Alice, Bob, Charlie, David, Emily"
 names = names_string.split(", ")
 import random
