@@ -1,3 +1,4 @@
+#opening a file 
 with open("file1.txt") as file1:
     list1 = file1.readlines()
 
