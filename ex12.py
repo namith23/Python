@@ -1,3 +1,4 @@
+#adding visited countries to travel log
 country = input()
 visits = int(input())
 list_of_cities = eval(input())
